@@ -61,6 +61,7 @@ python app.py
 * Shows Left or Right hand.
 * Shows detected gesture.
 * Prints finger states in the terminal.
+* [Project Output](assets/image.png)
 
 ## Future Enhancements
 
